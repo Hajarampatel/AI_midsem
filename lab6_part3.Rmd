@@ -1,6 +1,6 @@
 ---
 title: "Lab 6"
-author: "Group 5 Naagraaj"
+author: "HAJA RAM"
 output:
   html_notebook: 
     toc: yes

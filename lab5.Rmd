@@ -1,7 +1,6 @@
 ---
 title: "Lab 5"
-author: "Group 2 Naagraaj"
-date: "23/02/2021"
+author: "HAJA RAM"
 output: 
   html_document: 
     toc: yes
